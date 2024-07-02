@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/School_Managment/static/css/main.be27fa27.css",
+    "main.js": "/School_Managment/static/js/main.156471d3.js",
+    "static/js/453.ed3810f9.chunk.js": "/School_Managment/static/js/453.ed3810f9.chunk.js",
+    "static/media/ten.png": "/School_Managment/static/media/ten.7b6e125eae2178674e43.png",
+    "static/media/eleven.png": "/School_Managment/static/media/eleven.123994d223e4d8923f05.png",
+    "static/media/nine.png": "/School_Managment/static/media/nine.08ca8aa9396b61df68f6.png",
+    "static/media/first.png": "/School_Managment/static/media/first.139ace19a8bd3e6e68eb.png",
+    "static/media/twelve.png": "/School_Managment/static/media/twelve.698aaae60c5e466bb041.png",
+    "static/media/cards1.jpeg": "/School_Managment/static/media/cards1.c88bf54996d478e14cda.jpeg",
+    "static/media/cards2.jpeg": "/School_Managment/static/media/cards2.b2de5fe691690421a7fb.jpeg",
+    "static/media/cards3.jpeg": "/School_Managment/static/media/cards3.f111e8322fc339125e6c.jpeg",
+    "static/media/Notice3.jpeg": "/School_Managment/static/media/Notice3.3881141e7d91cb22f003.jpeg",
+    "static/media/test.png": "/School_Managment/static/media/test.182cef6295719366f060.png",
+    "static/media/saqib.png": "/School_Managment/static/media/saqib.d0caa75e0d8b5afa6d67.png",
+    "static/media/Notice1.jpeg": "/School_Managment/static/media/Notice1.4493e76c1117705877fe.jpeg",
+    "static/media/Notice2.jpeg": "/School_Managment/static/media/Notice2.eee6e812b115bdb0e78d.jpeg",
+    "static/media/logo.png": "/School_Managment/static/media/logo.84bc2e36d19e4db64914.png",
+    "static/media/eight.jpeg": "/School_Managment/static/media/eight.67697f2e7a1759f91fc9.jpeg",
+    "static/media/four.jpeg": "/School_Managment/static/media/four.47de850b76e6d511bb63.jpeg",
+    "static/media/five.jpeg": "/School_Managment/static/media/five.1fdd7c82945377416551.jpeg",
+    "static/media/Two.jpeg": "/School_Managment/static/media/Two.634c7089e73538014389.jpeg",
+    "static/media/one.jpeg": "/School_Managment/static/media/one.31e52ea8ac911d426a9d.jpeg",
+    "static/media/Three.jpeg": "/School_Managment/static/media/Three.576c7930eca1a930cd0b.jpeg",
+    "static/media/sic.jpeg": "/School_Managment/static/media/sic.ccf5df6feab3ca3caea4.jpeg",
+    "static/media/seven.jpeg": "/School_Managment/static/media/seven.59221af5aea5be392578.jpeg",
+    "index.html": "/School_Managment/index.html",
+    "main.be27fa27.css.map": "/School_Managment/static/css/main.be27fa27.css.map",
+    "main.156471d3.js.map": "/School_Managment/static/js/main.156471d3.js.map",
+    "453.ed3810f9.chunk.js.map": "/School_Managment/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be27fa27.css",
+    "static/js/main.156471d3.js"
+  ]
+}
